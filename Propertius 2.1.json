@@ -1,0 +1,763 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.2, 39.6 ]
+    },
+    "properties" : {
+      "titles" : "Thessalia",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/1332" ],
+    "titles" : [ "Thessalia" ],
+    "names" : [ "Thessalia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ixioniden", "Haemonia" ],
+    "comments" : [ "PirithousIxioniden\n(“son of Ixion,” i.e. Pirithous) – Pirithous is a Lapith who fought centaurs (Il. 1. 263 ff.)\n– friend of Theseus (Od. 21. 295 ff. and Od. 11. 631) OCD. Ixion, Pirithous’ father, was a ~legendary\nking~ of Thessaly. (Champs, 70)", "Ixioniden\n(“son of Ixion,” i.e. Pirithous) – Pirithous is a Lapith who fought centaurs (Il. 1. 263 ff.)\n– friend of Theseus (Od. 21. 295 ff. and Od. 11. 631) OCD. Ixion, Pirithous’ father, was a ~legendary\nking~ of Thessaly." ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.34845, 37.50303 ]
+    },
+    "properties" : {
+      "titles" : "Troizen",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570756" ],
+    "titles" : [ "Troizen" ],
+    "names" : [ "Troizen", "Antheia", "Oraia", "Troizenia", "Τροιζήν", "Troizḗn, Troizen" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Phaedrae,", "privigno non nocitura suo" ],
+    "comments" : [ "Jhy trans “the potions of the step-mother Phaedra which\nmust be touched by me”\n\n \n\nPhaedra – second wife of Theseus - Tried to seduce her\nson-in-law Hippolytus (New Pauly) \n\n– in Troezen/Trozen (Eur. Hippolytus\n10-14)", "privigno . . . suo = Hippolytus, Phaedra's son-in-law", "Phaedra’s privigno\n. . . suo  -- Hippolytus – in Troezen/Trozen\n(Eur.\nHippolytus 10-14)\n\n \n\nAphrodite:\n\nὁ γάρ με Θησέως παῖς, Ἀμαζόνος\nτόκος, / Ἱππόλυτος, ἁγνοῦ Πιτθέως\nπαιδεύματα, / μόνος πολιτῶν τῆσδε γῆς\nΤροζηνίας / λέγει κακίστην δαιμόνων\nπεφυκέναι . . . (Eur. Hippolytus\n10-14)\n\n“The truth of these words I\nshall shortly demonstrate. Theseus’ son Hippolytus, offspring of the Amazon\nwoman and ward of holy Pittheus, alone among the citizens of this land of\nTrozen, says that I am the worst of deities. “\n\nDOI: 10.4159/DLCL.euripides-hippolytus.1995" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.75, 43.75 ]
+    },
+    "properties" : {
+      "titles" : "Etruria/Tuscia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/413122" ],
+    "titles" : [ "Etruria/Tuscia" ],
+    "names" : [ "Etruria", "Tuscia", "Rasna" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Etruscae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.904133, 31.195371 ]
+    },
+    "properties" : {
+      "titles" : "Alexandria",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/727070" ],
+    "titles" : [ "Alexandria" ],
+    "names" : [ "Alexandria", "Alexandria", "Rakote", "al-İskandarīya", "al-Iskandariyya", "al-Iskandarīya, al-Iskandariya, al-Iskandariyah, el-Iskandariya, el-Iskandariyah, al-Iskandariyya, al-Iskandariyyah, el-Iskandariyya, el-Iskandariyyah", "Rhakōtis, Rhakotis", "Alexandreia", "Alexandrea ad Aegyptum", "Alexandreia ad Aegyptum" ],
+    "place_types" : [ "theatre", "cemetery", "temple-2", "architecturalcomplex", "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ptolemaeei" ],
+    "comments" : [ "Ptolemaeei . . . Phari Ptolemy resided in Alexandria where also was the lighthouse of Pharos.To which Ptolemy, however, is Propertius referring?" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.0465058, 39.43722 ]
+    },
+    "properties" : {
+      "titles" : "Pelion M.",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/541021" ],
+    "titles" : [ "Pelion M." ],
+    "names" : [ "Pelion M." ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Pelion", "Chiron", "Phillyrides" ],
+    "comments" : [ "Barrington Atlas 57 B2)", "At least Pindar (Pythian Ode 3.?) locates Chiron and his mother Phillyra (?) at Pelion.http://data.perseus.org/texts/urn:cts:greekLit:tlg0033.tlg002.perseus-eng1", "At least Pindar (Pythian Ode 3.?) locates Chiron and his mother Phillyra (?) at Pelion.http://data.perseus.org/texts/urn:cts:greekLit:tlg0033.tlg002.perseus-eng1" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.079167, 37.596111 ]
+    },
+    "properties" : {
+      "titles" : "Epidauros",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570228" ],
+    "titles" : [ "Epidauros" ],
+    "names" : [ "Epidauros", "Epidauria" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Epidaurius" ],
+    "tags" : [ "Pertaining to a place." ],
+    "comments" : [ "deus ... Epidaurius = Asclepius" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.885661, 31.213931 ]
+    },
+    "properties" : {
+      "titles" : "Pharos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/727197" ],
+    "titles" : [ "Pharos" ],
+    "names" : [ "Pharos" ],
+    "place_types" : [ "lighthouse" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Phari" ],
+    "tags" : [ "Monument" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.327986, 36.857569 ]
+    },
+    "properties" : {
+      "titles" : "Carthago",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/314921" ],
+    "titles" : [ "Carthago" ],
+    "names" : [ "Carthago", "Carthage", "Carthage", "Ἰουνωνία", "Iunonia" ],
+    "place_types" : [ "villa", "theatre", "circus", "cemetery", "bath", "church", "settlement", "amphitheatre", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Carthaginis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.96886, 39.366305 ]
+    },
+    "properties" : {
+      "titles" : "Iolkos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/540837" ],
+    "titles" : [ "Iolkos" ],
+    "names" : [ "Iolkos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Iolciacis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.334511, 41.02518 ]
+    },
+    "properties" : {
+      "titles" : "Philippoi",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/501564" ],
+    "titles" : [ "Philippoi" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Philippos" ],
+    "comments" : [ "Who again was at Philippi?Octavian and Antony?", "Victory by Octavian (Goold p. 118)" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.749775, 38.923568 ]
+    },
+    "properties" : {
+      "titles" : "Actium Pr.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/530772" ],
+    "titles" : [ "Actium Pr." ],
+    "names" : [ "Actium Pr." ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Actia" ],
+    "tags" : [ "Pertaining to a location", "Pertaining to an event.", "Pertaining to a celebration." ],
+    "comments" : [ "Actia . . . rostra: \"Actian ship-beaks\"Evoking the battle of Actium and, I add, the location itself (for instance the focus on the ship-beaks, which, I argue, are metonymy for the battle which took place on the sea). See Camps (1967), 70 for a discussion on the identification of these rostra and his suggestion that these are indicative of a Triumph." ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.268194, 37.397274 ]
+    },
+    "properties" : {
+      "titles" : "Delos (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/599588" ],
+    "titles" : [ "Delos (island)" ],
+    "names" : [ "Δῆλος", "Delos" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Apollo" ],
+    "tags" : [ "Mythological" ],
+    "comments" : [ "For now I am placing Apollo at Delos, his birthplace, acording to the Homeric Hymns" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.139, 40.827 ]
+    },
+    "properties" : {
+      "titles" : "Campi Phlegraei",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/432744" ],
+    "titles" : [ "Campi Phlegraei" ],
+    "names" : [ "Campi Phlegraei", "Phlegraean Fields" ],
+    "place_types" : [ "plain", "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Phlegraeos" ],
+    "comments" : [ "Phlegraean fields?", "Phlegraean fields, according to Camps, reputed to be in Thessaly or near Cumae in Italy (71)." ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.567329633333, 19.211408766667 ]
+    },
+    "properties" : {
+      "titles" : "Mendesion Stoma",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/727157" ],
+    "titles" : [ "Mendesion Stoma" ],
+    "names" : [ "Mendesion Stoma", "Mendesische Mündung, Mouth of the Mendesian Branch", "Mendesische Mdg.", "Mendēsion Stoma, Mendesion Stoma", "Mendēsion stoma" ],
+    "place_types" : [ "mouth" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "septem captivis debilis ibat aquis" ],
+    "comments" : [ "From East to West, the seven mouths of the Nile: (1) Pelousiakon Stoma, (2) Tantikon/Saitikon Stoma, (3) Mendesion Stoma, (4) Phatnitikon Stoma, (5) Sebennytikon Stoma, (6) Bolbitinon Stoma, (7) Kanobikon Stoma.", "Konobikon Stoma is in the wrong location" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.726464, 37.971687 ]
+    },
+    "properties" : {
+      "titles" : "Athenae",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/579885" ],
+    "titles" : [ "Athenae" ],
+    "names" : [ "Athenae", "Athenae", "Athens", "Athens", "Αθήνα", "Athina, Athína", "Ἀθῆναι", "Athēnai, Athenai", "Athen", "Athen" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Theseus" ],
+    "tags" : [ "Mythological" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.25, 31.25 ]
+    },
+    "properties" : {
+      "titles" : "Bolbitinon Stoma",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/727086" ],
+    "titles" : [ "Bolbitinon Stoma" ],
+    "names" : [ "Bolbitinon Stoma", "Bol bitinon stoma", "Bolbitinon Stoma", "Bolbitinische Mündung, Mouth of the Bolbitinic Branch" ],
+    "place_types" : [ "mouth" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "septem captivis debilis ibat aquis" ],
+    "comments" : [ "From East to West, the seven mouths of the Nile: (1) Pelousiakon Stoma, (2) Tantikon/Saitikon Stoma, (3) Mendesion Stoma, (4) Phatnitikon Stoma, (5) Sebennytikon Stoma, (6) Bolbitinon Stoma, (7) Kanobikon Stoma.", "Konobikon Stoma is in the wrong location" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.25, 31.25 ]
+    },
+    "properties" : {
+      "titles" : "Kanobikon Stoma",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/727137" ],
+    "titles" : [ "Kanobikon Stoma" ],
+    "names" : [ "Kanobikon Stoma" ],
+    "place_types" : [ "mouth" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "septem captivis debilis ibat aquis" ],
+    "comments" : [ "From East to West, the seven mouths of the Nile: (1) Pelousiakon Stoma, (2) Tantikon/Saitikon Stoma, (3) Mendesion Stoma, (4) Phatnitikon Stoma, (5) Sebennytikon Stoma, (6) Bolbitinon Stoma, (7) Kanobikon Stoma.", "Konobikon Stoma is in the wrong location" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.086484645794, 37.536676119522 ]
+    },
+    "properties" : {
+      "titles" : "Sicilia (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/462492" ],
+    "titles" : [ "Sicilia (island)" ],
+    "names" : [ "Sicilia", "Sicily", "Sicily", "Trinacria", "Trinacria", "Σικελία", "Sikelía, Sikelia", "Sizilien", "Sizilien" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Siculae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.856169, 32.818736 ]
+    },
+    "properties" : {
+      "titles" : "Cyrene",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/373778" ],
+    "titles" : [ "Cyrene" ],
+    "names" : [ "Cyrene", "Cyrene", "Claudiopolis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Callimachus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.25, 39.75 ]
+    },
+    "properties" : {
+      "titles" : "Mysia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/550759" ],
+    "titles" : [ "Mysia" ],
+    "names" : [ "Mysia" ],
+    "place_types" : [ "labeled feature" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Mysus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.5824, 31.062 ]
+    },
+    "properties" : {
+      "titles" : "Pelousiakon Stoma",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/727191" ],
+    "titles" : [ "Pelousiakon Stoma" ],
+    "names" : [ "Pelousiakon Stoma", "Pēlousiakon Stoma, Pelousiakon Stoma", "Pēlousion Stoma, Pelousion Stoma", "Pēlousiakon stoma", "Pelusinische Mündung", "Pelusinische Mündung", "Pelusiacum ostium", "Pelusiacum ostium" ],
+    "place_types" : [ "mouth" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "septem captivis debilis ibat aquis" ],
+    "comments" : [ "From East to West, the seven mouths of the Nile: (1) Pelousiakon Stoma, (2) Tantikon/Saitikon Stoma, (3) Mendesion Stoma, (4) Phatnitikon Stoma, (5) Sebennytikon Stoma, (6) Bolbitinon Stoma, (7) Kanobikon Stoma.", "Konobikon Stoma is in the wrong location" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.3584897, 40.0862269 ]
+    },
+    "properties" : {
+      "titles" : "Olympos (mountain in Greece)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/491677" ],
+    "titles" : [ "Olympos (mountain in Greece)" ],
+    "names" : [ "Ὄλυμπος", "Olympos, Ólympos, Olumpos", "Οὔλυμπος", "Oulympos, Oulumpos", "Olympus M.", "Olympus", "Olympus" ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Olympo\t" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4859059, 41.8922983 ]
+    },
+    "properties" : {
+      "titles" : "Sacra Via",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/434423626" ],
+    "titles" : [ "Sacra Via" ],
+    "place_types" : [ "road" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sacra currere rostra Via" ],
+    "tags" : [ "Location" ],
+    "comments" : [ "Via Sacra" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.17, 36.844 ]
+    },
+    "properties" : {
+      "titles" : "Kos/Cos (island)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/599581" ],
+    "titles" : [ "Kos/Cos (island)" ],
+    "names" : [ "Cos" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Coa", "Cois" ],
+    "tags" : [ "Pertaining to a location" ],
+    "comments" : [ "According to W.A. Camps, \"Cois: from the neut. pl. Coa = stuff of Cos, a fine and often transluscent silk-like material.\" (p. 66)" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.82514, 38.35217 ]
+    },
+    "properties" : {
+      "titles" : "Helicon M.",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/540808" ],
+    "titles" : [ "Helicon M." ],
+    "names" : [ "Helicon M." ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Calliope", "Musa" ],
+    "tags" : [ "Mythological", "Mythological" ],
+    "comments" : [ "Mount Hellicon (Hesiod, Theogony 1 ff)." ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.422, 53.826 ]
+    },
+    "properties" : {
+      "titles" : "Britannia/Albion (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/20419" ],
+    "titles" : [ "Britannia/Albion (island)" ],
+    "names" : [ "Britannia", "Britannia", "Albion", "Albion" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Britanna" ],
+    "comments" : [ "Verify this identification again.Is it a noun or an adjective?" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.228819, 38.52585 ]
+    },
+    "properties" : {
+      "titles" : "Colchis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/874432" ],
+    "titles" : [ "Colchis" ],
+    "names" : [ "Colchis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Colchis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.844, 31.523 ]
+    },
+    "properties" : {
+      "titles" : "Phatnitikon Stoma",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/727198" ],
+    "titles" : [ "Phatnitikon Stoma" ],
+    "names" : [ "Phatnitikon Stoma", "Phatnikon Stoma", "Phatnitische Mündung, Mouth of the Phatnitic Branch", "Phatnikon stoma" ],
+    "place_types" : [ "river", "mouth" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "septem captivis debilis ibat aquis" ],
+    "comments" : [ "From East to West, the seven mouths of the Nile: (1) Pelousiakon Stoma, (2) Tantikon/Saitikon Stoma, (3) Mendesion Stoma, (4) Phatnitikon Stoma, (5) Sebennytikon Stoma, (6) Bolbitinon Stoma, (7) Kanobikon Stoma.", "Konobikon Stoma is in the wrong location" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.23873, 39.9577 ]
+    },
+    "properties" : {
+      "titles" : "Ilium/Troia",
+      "annotations" : 8
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/550595" ],
+    "titles" : [ "Ilium/Troia" ],
+    "names" : [ "Ilium", "Troia", "Troia", "Troy", "Troy", "Troja", "Τροία", "Troía, Troia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Pergama", "Helena", "Iliadas", "Philoctetae", "Menoetiaden", "Achilles", "Machaon", "Iliada" ],
+    "tags" : [ "Mythological", "Book", "Mythological", "Book" ],
+    "comments" : [ "Pergamum? Thus, says the Loeb", "Verify in Camps", "Pergăma is defined as a plural noun meaning \"the citadel of Troy, poet. for Troy\" (Lewis and Short).", "Hellen of Troy", "Book", "Healed at Troy by MachaonPhiloctetes \"There, P. is cured by Machaon or Podaleirius; and by killing Paris with an arrow, he contributes decisively to the fall of Troy (this is treated in the Ilias parva, EpGF p. 52; subject of a dithyramb (hymn to Dionysus) by Bacchylides, fr. 7; Soph. Phil. 604-613; Apollod. Epit. 5,8).\" (New Pauly).", "Menoetiaden (“son of Menoetius,” i.e. Patroclus). (Camps, 70). Both\nMenoetius and Patroclus moved to Phthia, after Patroclus killed a man (OCD, New\nPauly).", "Iliad" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 52.89029, 29.93482 ]
+    },
+    "properties" : {
+      "titles" : "Persepolis/Parsa/Persai/Sat Setun",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/922695" ],
+    "titles" : [ "Persepolis/Parsa/Persai/Sat Setun" ],
+    "names" : [ "Persepolis", "Parsa", "Persai", "Sat Setun" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Xerxis" ],
+    "comments" : [ "Xerxes, son of Darius I" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.75, 38.75 ]
+    },
+    "properties" : {
+      "titles" : "Phrygia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/609502" ],
+    "titles" : [ "Phrygia" ],
+    "names" : [ "Phrygia", "Berecyntius Tractus", "Berekyntes" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Phrygios" ],
+    "tags" : [ "Pertaining to a location" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.6851958, 39.7957751 ]
+    },
+    "properties" : {
+      "titles" : "Ossa (mountain range)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/540993" ],
+    "titles" : [ "Ossa (mountain range)" ],
+    "names" : [ "Ὄσσα", "Ossa, Óssa", " Κίσσαβος", "Kissavos, Kíssavos, Kissabos" ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ossan" ],
+    "comments" : [ "Mt. Ossa (Barrington Atlas 57 A2)Otus and Ephialtes placed mountains on top of other mountains: Ossa on top of Olympus and Pelion on top of Ossa.Odyssey 11.315" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.25, 31.25 ]
+    },
+    "properties" : {
+      "titles" : "Tanitikon/Saitikon Stoma",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/727239" ],
+    "titles" : [ "Tanitikon/Saitikon Stoma" ],
+    "names" : [ "Tanitikon", "Saitikon Stoma", "Tanitische Mündung, Mouth of the Tanitic Branch", "Tanitikon Stoma", "Tanitikon stoma" ],
+    "place_types" : [ "mouth" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "septem captivis debilis ibat aquis" ],
+    "comments" : [ "From East to West, the seven mouths of the Nile: (1) Pelousiakon Stoma, (2) Tantikon/Saitikon Stoma, (3) Mendesion Stoma, (4) Phatnitikon Stoma, (5) Sebennytikon Stoma, (6) Bolbitinon Stoma, (7) Kanobikon Stoma.", "Konobikon Stoma is in the wrong location" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.9252, 44.6471 ]
+    },
+    "properties" : {
+      "titles" : "Mutina",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/383715" ],
+    "titles" : [ "Mutina" ],
+    "names" : [ "Mutina, Mvtina", "Mutina", "Modena" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Mutinam" ],
+    "comments" : [ "Who was at this battle?", "Victory by Octavian (Goold p. 118)" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4843457, 41.89262 ]
+    },
+    "properties" : {
+      "titles" : "Roma",
+      "annotations" : 25
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/423025" ],
+    "titles" : [ "Roma" ],
+    "names" : [ "Roma", "Roma, Rōma", "Rome", "Rome", "Ῥώμῃ", "Rhome, Rhṓmē, Rome" ],
+    "place_types" : [ "urban", "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Remi", "meae", "mihi", "mihi", "urbem", "meus", "mihi", "nobis", "meo", "Maecenas", "Caesaris", "mihi", "mihi", "mecum", "Mari", "﻿Quaeritis", "tui", "te", "mea", "meos", "﻿Quaeritis", "Maecenas", "tu", "mihi", "Caesare" ],
+    "tags" : [ "Mythological; Historical", "Historical" ],
+    "comments" : [ "RemusCamps argues that Remus must mean Romulus (p. 69). He provides details. . . I'm not sure.", "regna . . . Remi", "Propertius", "Propertius", "Propertius", "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.", "Rome - here named as Urbem", "Propertius", "PropertiusMoved to Rome (Conte, p 331)", "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.", "Propertius", "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.", "Propertius", "Propertius", "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.", "Maecenas", "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.", "Caesar", "For now, I am placing Caesar at Rome", "Propertius", "Moved to Rome (Conte, p 331)", "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.", "Propertius", "Moved to Rome (Conte, p 331)", "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.", "Propertius.In my map - focus on the places evoked in this poem - here personal pronouns are (of Propertius) evoke roman setting not likely the place of his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium (http://pleiades.stoa.org/places/413032) Especially since the end of the poem is the setting of Propertius’ bustum.", "Marius", "From around Arpinum. Lived in Rome and held office in Rome as novus homo (New Pauly). There is also an elogium of Marius in the Forum of Augistus (See https://tinyurl.com/elogium-of-Marius)", "Maecenas", "When was Book 2 written/published?When was the House of Maecenas on the Esquiline built?", "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.", "Maecenas", "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.", "Propertius", "mea . . . praecordiaPropertius", "Propertius", "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.", "Maecenas", "When was Book 2 written/published?When was the House of Maecenas on the Esquiline built?", "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.", "Maecenas", "When was Book 2 written/published?When was the House of Maecenas on the Esquiline built?", "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.", "Propertius", "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum." ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.255096, 38.318092 ]
+    },
+    "properties" : {
+      "titles" : "Thebai/Thebae",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/541138" ],
+    "titles" : [ "Thebai/Thebae" ],
+    "names" : [ "Thebae", "Thebae", "Θήβα", "Thiva, Thíva", "Thebes", "Thebes", "Θῆβαι", "Thebai, Thēbai" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thebas" ],
+    "comments" : [ "Thebes", "Which thebes?" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.2705999, 29.7497813 ]
+    },
+    "properties" : {
+      "titles" : "Nilus (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/727172" ],
+    "titles" : [ "Nilus (river)" ],
+    "names" : [ "Nilus", "Nilus", "Nile river", "Nile river", "Nile", "Neilos", "an-Nīl, al-Nil, en-Nil, el-Nil", "Nil", "Νεῖλος", "Neilos, Neĩlos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Nilum" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 42.4378759, 43.3525468 ]
+    },
+    "properties" : {
+      "titles" : "Caucasus (mountain range)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/863766" ],
+    "titles" : [ "Caucasus (mountain range)" ],
+    "names" : [ "Caucasus", "Caucasus M." ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Caucasia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0459251, 41.2379462 ]
+    },
+    "properties" : {
+      "titles" : "Circeii 2",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/432783" ],
+    "titles" : [ "Circeii 2" ],
+    "names" : [ "Circeii 2" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Circaeo" ],
+    "comments" : [ "Circe\n– “ Homerplaces her island of Aeaea at\nthe extreme east of the world (Od. 12. 3–4), but\nas early as Hesiod, Theog.1011–16 she is\nassociated also with the west and frequently placed at Monte Circeo (see circeii) on the coast of Latium (so Apollonius (1) of Rhodes and Virgil; cf. Hunter on Ap. Rhod. Arg. 3. 311–13).”\nOCD, “Circe” by Richard Hunter" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.995769971495, 35.219844391733 ]
+    },
+    "properties" : {
+      "titles" : "Creta (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/589748" ],
+    "titles" : [ "Creta (island)" ],
+    "names" : [ "Creta", "Κρήτη", "Kríti" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Androgeona" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.25, 31.75 ]
+    },
+    "properties" : {
+      "titles" : "Sebennytikon Stoma",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/727224" ],
+    "titles" : [ "Sebennytikon Stoma" ],
+    "names" : [ "Sebennytikon Stoma", "Sebennytische Mündung, Mouth of the Sebennytic Branch", "Sebennytikon stoma", "Sebennytikon Stoma" ],
+    "place_types" : [ "mouth" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "septem captivis debilis ibat aquis" ],
+    "comments" : [ "From East to West, the seven mouths of the Nile: (1) Pelousiakon Stoma, (2) Tantikon/Saitikon Stoma, (3) Mendesion Stoma, (4) Phatnitikon Stoma, (5) Sebennytikon Stoma, (6) Bolbitinon Stoma, (7) Kanobikon Stoma.", "Konobikon Stoma is in the wrong location" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.41122, 40.19406 ]
+    },
+    "properties" : {
+      "titles" : "Abydos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/501325" ],
+    "titles" : [ "Abydos" ],
+    "names" : [ "Abydos", "Yapıldak", "Abidūs", "Abide", "Abydos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "imperio bina coisse vada" ],
+    "comments" : [ "cf. Herodotus, Histories 7.36.1http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-eng1:7.36.1Stephen Mitchell, citing (Hdt. 7. 34, 43 ff.) places the site of Xerxes' crossing of the Hellespont as the harbor in Asia Minor to the west of the Hellespont (Abydos, OCD)." ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [ [ [ [ 24.14, 34.82 ], [ 24.14, 34.82 ], [ 24.11, 34.82 ], [ 24.09, 34.83 ], [ 24.05, 34.85 ], [ 24.05, 34.86 ], [ 24.06, 34.86 ], [ 24.07, 34.86 ], [ 24.07, 34.86 ], [ 24.08, 34.87 ], [ 24.09, 34.87 ], [ 24.11, 34.87 ], [ 24.13, 34.86 ], [ 24.13, 34.86 ], [ 24.12, 34.85 ], [ 24.12, 34.84 ], [ 24.13, 34.83 ], [ 24.14, 34.82 ] ] ], [ [ [ 25.73, 34.88 ], [ 25.73, 34.88 ], [ 25.73, 34.87 ], [ 25.73, 34.87 ], [ 25.72, 34.87 ], [ 25.71, 34.87 ], [ 25.7, 34.87 ], [ 25.69, 34.87 ], [ 25.68, 34.87 ], [ 25.68, 34.87 ], [ 25.68, 34.88 ], [ 25.69, 34.88 ], [ 25.7, 34.88 ], [ 25.72, 34.88 ], [ 25.73, 34.88 ], [ 25.73, 34.88 ] ] ], [ [ [ 26.14, 34.93 ], [ 26.13, 34.92 ], [ 26.13, 34.93 ], [ 26.13, 34.93 ], [ 26.12, 34.94 ], [ 26.12, 34.94 ], [ 26.13, 34.95 ], [ 26.13, 34.95 ], [ 26.15, 34.94 ], [ 26.15, 34.93 ], [ 26.14, 34.93 ] ] ], [ [ [ 25.24, 35.44 ], [ 25.24, 35.43 ], [ 25.24, 35.43 ], [ 25.23, 35.43 ], [ 25.23, 35.43 ], [ 25.22, 35.44 ], [ 25.21, 35.43 ], [ 25.21, 35.43 ], [ 25.2, 35.44 ], [ 25.19, 35.44 ], [ 25.18, 35.44 ], [ 25.19, 35.45 ], [ 25.19, 35.45 ], [ 25.2, 35.46 ], [ 25.21, 35.46 ], [ 25.21, 35.46 ], [ 25.21, 35.46 ], [ 25.22, 35.46 ], [ 25.23, 35.46 ], [ 25.25, 35.45 ], [ 25.24, 35.44 ] ] ], [ [ [ 23.9, 35.53 ], [ 23.93, 35.52 ], [ 23.94, 35.52 ], [ 24, 35.52 ], [ 24.03, 35.52 ], [ 24.04, 35.52 ], [ 24.04, 35.53 ], [ 24.05, 35.53 ], [ 24.05, 35.54 ], [ 24.06, 35.55 ], [ 24.07, 35.56 ], [ 24.09, 35.55 ], [ 24.08, 35.59 ], [ 24.12, 35.6 ], [ 24.16, 35.6 ], [ 24.18, 35.59 ], [ 24.2, 35.54 ], [ 24.2, 35.53 ], [ 24.2, 35.53 ], [ 24.19, 35.52 ], [ 24.18, 35.51 ], [ 24.17, 35.51 ], [ 24.16, 35.51 ], [ 24.14, 35.51 ], [ 24.1, 35.51 ], [ 24.08, 35.51 ], [ 24.07, 35.51 ], [ 24.07, 35.5 ], [ 24.09, 35.49 ], [ 24.11, 35.48 ], [ 24.14, 35.47 ], [ 24.17, 35.46 ], [ 24.19, 35.45 ], [ 24.2, 35.45 ], [ 24.22, 35.46 ], [ 24.24, 35.47 ], [ 24.25, 35.48 ], [ 24.26, 35.43 ], [ 24.27, 35.41 ], [ 24.26, 35.38 ], [ 24.27, 35.37 ], [ 24.27, 35.36 ], [ 24.29, 35.36 ], [ 24.3, 35.36 ], [ 24.34, 35.35 ], [ 24.43, 35.37 ], [ 24.46, 35.36 ], [ 24.49, 35.37 ], [ 24.57, 35.38 ], [ 24.59, 35.39 ], [ 24.66, 35.42 ], [ 24.68, 35.42 ], [ 24.7, 35.43 ], [ 24.72, 35.43 ], [ 24.82, 35.41 ], [ 24.84, 35.4 ], [ 24.85, 35.41 ], [ 24.87, 35.42 ], [ 24.9, 35.42 ], [ 24.96, 35.4 ], [ 24.96, 35.41 ], [ 24.97, 35.41 ], [ 24.97, 35.42 ], [ 24.97, 35.42 ], [ 25.02, 35.42 ], [ 25.03, 35.4 ], [ 25.05, 35.41 ], [ 25.05, 35.4 ], [ 25.05, 35.4 ], [ 25.05, 35.39 ], [ 25.05, 35.39 ], [ 25.05, 35.38 ], [ 25.06, 35.36 ], [ 25.08, 35.34 ], [ 25.11, 35.34 ], [ 25.15, 35.34 ], [ 25.18, 35.35 ], [ 25.2, 35.35 ], [ 25.2, 35.35 ], [ 25.21, 35.34 ], [ 25.21, 35.34 ], [ 25.22, 35.34 ], [ 25.25, 35.34 ], [ 25.31, 35.34 ], [ 25.33, 35.34 ], [ 25.35, 35.34 ], [ 25.36, 35.34 ], [ 25.37, 35.34 ], [ 25.38, 35.34 ], [ 25.39, 35.33 ], [ 25.41, 35.31 ], [ 25.43, 35.3 ], [ 25.45, 35.29 ], [ 25.48, 35.3 ], [ 25.64, 35.35 ], [ 25.66, 35.35 ], [ 25.67, 35.35 ], [ 25.69, 35.34 ], [ 25.71, 35.34 ], [ 25.77, 35.34 ], [ 25.76, 35.32 ], [ 25.75, 35.31 ], [ 25.72, 35.29 ], [ 25.73, 35.29 ], [ 25.73, 35.28 ], [ 25.73, 35.27 ], [ 25.73, 35.26 ], [ 25.74, 35.26 ], [ 25.74, 35.28 ], [ 25.74, 35.29 ], [ 25.75, 35.28 ], [ 25.76, 35.27 ], [ 25.75, 35.27 ], [ 25.75, 35.26 ], [ 25.76, 35.26 ], [ 25.75, 35.25 ], [ 25.75, 35.26 ], [ 25.74, 35.26 ], [ 25.74, 35.25 ], [ 25.73, 35.25 ], [ 25.74, 35.24 ], [ 25.73, 35.23 ], [ 25.72, 35.21 ], [ 25.72, 35.19 ], [ 25.71, 35.18 ], [ 25.71, 35.17 ], [ 25.72, 35.16 ], [ 25.72, 35.15 ], [ 25.73, 35.13 ], [ 25.74, 35.13 ], [ 25.75, 35.13 ], [ 25.77, 35.13 ], [ 25.78, 35.12 ], [ 25.8, 35.12 ], [ 25.82, 35.12 ], [ 25.83, 35.12 ], [ 25.85, 35.15 ], [ 25.86, 35.16 ], [ 25.87, 35.16 ], [ 25.87, 35.16 ], [ 25.88, 35.16 ], [ 25.9, 35.18 ], [ 25.9, 35.18 ], [ 25.91, 35.19 ], [ 25.94, 35.19 ], [ 25.98, 35.2 ], [ 25.99, 35.2 ], [ 26.02, 35.21 ], [ 26.03, 35.22 ], [ 26.03, 35.23 ], [ 26.04, 35.23 ], [ 26.05, 35.23 ], [ 26.06, 35.23 ], [ 26.06, 35.23 ], [ 26.07, 35.23 ], [ 26.08, 35.22 ], [ 26.12, 35.22 ], [ 26.11, 35.21 ], [ 26.13, 35.2 ], [ 26.16, 35.2 ], [ 26.18, 35.21 ], [ 26.2, 35.22 ], [ 26.19, 35.22 ], [ 26.19, 35.22 ], [ 26.19, 35.23 ], [ 26.22, 35.25 ], [ 26.24, 35.27 ], [ 26.26, 35.28 ], [ 26.29, 35.29 ], [ 26.29, 35.3 ], [ 26.3, 35.3 ], [ 26.3, 35.3 ], [ 26.3, 35.3 ], [ 26.3, 35.31 ], [ 26.29, 35.32 ], [ 26.32, 35.32 ], [ 26.31, 35.3 ], [ 26.3, 35.28 ], [ 26.28, 35.27 ], [ 26.27, 35.26 ], [ 26.28, 35.21 ], [ 26.3, 35.19 ], [ 26.32, 35.2 ], [ 26.31, 35.18 ], [ 26.3, 35.17 ], [ 26.29, 35.15 ], [ 26.29, 35.14 ], [ 26.29, 35.12 ], [ 26.28, 35.1 ], [ 26.27, 35.08 ], [ 26.26, 35.07 ], [ 26.25, 35.06 ], [ 26.24, 35.04 ], [ 26.24, 35.03 ], [ 26.22, 35.03 ], [ 26.21, 35.03 ], [ 26.21, 35.02 ], [ 26.15, 35 ], [ 26.13, 35 ], [ 26.11, 35 ], [ 26.1, 35 ], [ 26.09, 35.02 ], [ 26.08, 35.02 ], [ 26.06, 35.02 ], [ 26.04, 35.02 ], [ 26.02, 35.02 ], [ 26, 35.03 ], [ 25.99, 35.04 ], [ 25.98, 35.04 ], [ 25.98, 35.04 ], [ 25.97, 35.03 ], [ 25.96, 35.03 ], [ 25.92, 35.03 ], [ 25.88, 35.03 ], [ 25.81, 35.01 ], [ 25.6, 35.01 ], [ 25.54, 35 ], [ 25.52, 34.99 ], [ 25.51, 34.98 ], [ 25.42, 34.99 ], [ 25.35, 34.99 ], [ 25.33, 34.99 ], [ 25.3, 34.98 ], [ 25.29, 34.98 ], [ 25.28, 34.97 ], [ 25.22, 34.95 ], [ 25.21, 34.95 ], [ 25.15, 34.96 ], [ 25.13, 34.95 ], [ 25.12, 34.95 ], [ 25.11, 34.94 ], [ 25.11, 34.94 ], [ 25.1, 34.94 ], [ 25.09, 34.94 ], [ 25.09, 34.94 ], [ 25.08, 34.94 ], [ 25.06, 34.94 ], [ 25.04, 34.94 ], [ 25.02, 34.93 ], [ 25, 34.94 ], [ 24.98, 34.94 ], [ 24.74, 34.93 ], [ 24.74, 34.94 ], [ 24.75, 34.95 ], [ 24.76, 34.96 ], [ 24.75, 35 ], [ 24.75, 35.01 ], [ 24.76, 35.03 ], [ 24.76, 35.04 ], [ 24.76, 35.05 ], [ 24.75, 35.07 ], [ 24.74, 35.08 ], [ 24.74, 35.08 ], [ 24.73, 35.08 ], [ 24.72, 35.09 ], [ 24.72, 35.09 ], [ 24.71, 35.1 ], [ 24.62, 35.1 ], [ 24.59, 35.1 ], [ 24.58, 35.11 ], [ 24.57, 35.11 ], [ 24.56, 35.11 ], [ 24.55, 35.11 ], [ 24.53, 35.14 ], [ 24.52, 35.14 ], [ 24.5, 35.15 ], [ 24.48, 35.16 ], [ 24.46, 35.15 ], [ 24.4, 35.18 ], [ 24.4, 35.18 ], [ 24.4, 35.19 ], [ 24.29, 35.18 ], [ 24.22, 35.19 ], [ 24.21, 35.19 ], [ 24.21, 35.2 ], [ 24.2, 35.2 ], [ 24.2, 35.21 ], [ 24.2, 35.21 ], [ 24.19, 35.2 ], [ 24.19, 35.2 ], [ 24.18, 35.2 ], [ 24.11, 35.2 ], [ 24.09, 35.2 ], [ 24.08, 35.2 ], [ 24.08, 35.19 ], [ 24.08, 35.2 ], [ 24.05, 35.19 ], [ 24.03, 35.2 ], [ 24, 35.23 ], [ 23.99, 35.23 ], [ 23.9, 35.23 ], [ 23.86, 35.24 ], [ 23.83, 35.25 ], [ 23.82, 35.25 ], [ 23.81, 35.24 ], [ 23.81, 35.24 ], [ 23.8, 35.25 ], [ 23.78, 35.23 ], [ 23.71, 35.24 ], [ 23.68, 35.23 ], [ 23.67, 35.24 ], [ 23.61, 35.23 ], [ 23.59, 35.24 ], [ 23.58, 35.25 ], [ 23.58, 35.25 ], [ 23.58, 35.26 ], [ 23.57, 35.26 ], [ 23.56, 35.26 ], [ 23.55, 35.27 ], [ 23.54, 35.27 ], [ 23.54, 35.28 ], [ 23.53, 35.29 ], [ 23.52, 35.29 ], [ 23.53, 35.3 ], [ 23.52, 35.3 ], [ 23.52, 35.3 ], [ 23.52, 35.3 ], [ 23.52, 35.31 ], [ 23.53, 35.31 ], [ 23.54, 35.32 ], [ 23.55, 35.32 ], [ 23.55, 35.32 ], [ 23.55, 35.32 ], [ 23.55, 35.32 ], [ 23.55, 35.32 ], [ 23.55, 35.33 ], [ 23.54, 35.34 ], [ 23.54, 35.35 ], [ 23.55, 35.36 ], [ 23.54, 35.37 ], [ 23.55, 35.4 ], [ 23.57, 35.42 ], [ 23.57, 35.43 ], [ 23.57, 35.44 ], [ 23.57, 35.45 ], [ 23.56, 35.45 ], [ 23.56, 35.45 ], [ 23.56, 35.46 ], [ 23.57, 35.48 ], [ 23.58, 35.49 ], [ 23.58, 35.5 ], [ 23.57, 35.51 ], [ 23.57, 35.51 ], [ 23.57, 35.52 ], [ 23.57, 35.52 ], [ 23.57, 35.52 ], [ 23.57, 35.53 ], [ 23.58, 35.55 ], [ 23.58, 35.56 ], [ 23.58, 35.58 ], [ 23.6, 35.6 ], [ 23.6, 35.61 ], [ 23.61, 35.59 ], [ 23.61, 35.55 ], [ 23.61, 35.53 ], [ 23.62, 35.52 ], [ 23.62, 35.52 ], [ 23.63, 35.52 ], [ 23.64, 35.52 ], [ 23.64, 35.52 ], [ 23.64, 35.51 ], [ 23.64, 35.51 ], [ 23.65, 35.5 ], [ 23.66, 35.5 ], [ 23.68, 35.5 ], [ 23.7, 35.5 ], [ 23.72, 35.51 ], [ 23.73, 35.53 ], [ 23.73, 35.55 ], [ 23.72, 35.57 ], [ 23.72, 35.59 ], [ 23.71, 35.61 ], [ 23.72, 35.62 ], [ 23.71, 35.63 ], [ 23.71, 35.65 ], [ 23.72, 35.66 ], [ 23.73, 35.67 ], [ 23.74, 35.69 ], [ 23.75, 35.69 ], [ 23.76, 35.68 ], [ 23.78, 35.67 ], [ 23.78, 35.66 ], [ 23.77, 35.65 ], [ 23.77, 35.64 ], [ 23.78, 35.61 ], [ 23.78, 35.58 ], [ 23.78, 35.58 ], [ 23.8, 35.54 ], [ 23.82, 35.53 ], [ 23.9, 35.53 ] ] ] ]
+    },
+    "properties" : {
+      "titles" : "Crete",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/6697802" ],
+    "titles" : [ "Crete" ],
+    "names" : [ "Crète", "Κρήτη", "Crete", "Creta", "Kreta", "Creta" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Cressis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.5, 47.5 ]
+    },
+    "properties" : {
+      "titles" : "Cimbri",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/101183" ],
+    "titles" : [ "Cimbri" ],
+    "names" : [ "Cimbri" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cimbrorum" ],
+    "comments" : [ "\"Cimbrorumque minas: the menace averted by Marius' victory over the Cimbri at the Raudine plains in 101 B.C.\" (Camps 69).\"Raudii Campi (or Campus Raudius) is the name of a plain located in Cisalpine Gaul where, in 101 BC, Caius Marius and Catulus defeated the Cimbri. The precise location, perhaps near Verona, is not certain.\"https://pleiades.stoa.org/places/387335" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.25, 39.25 ]
+    },
+    "properties" : {
+      "titles" : "Phthiotis",
+      "annotations" : 4
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/541052" ],
+    "titles" : [ "Phthiotis" ],
+    "names" : [ "Phthiotis", "Phthia" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Phoenicis", "Menoetiaden", "iuvenis", "Achilles" ],
+    "tags" : [ "Mythological" ],
+    "comments" : [ "Iliad 9.484ναῖον δ’ ἐσχατιὴν Φθίης Δολόπεσσιν ἀνάσσων.καί σε τοσοῦτον ἔθηκα θεοῖς ἐπιείκελ’ Ἀχιλλεῦ,   (485)ἐκ θυμοῦ φιλέων, ἐπεὶ οὐκ ἐθέλεσκες ἅμ’ ἄλλῳ οὔτ’ ἐς δαῖτ’ ἰέναι οὔτ’ ἐν μεγάροισι πάσασθαι,πρίν γ’ ὅτε δή σ’ ἐπ’ ἐμοῖσιν ἐγὼ γούνεσσι καθίσσαςὄψου τ’ ἄσαιμι προταμὼν καὶ οἶνον ἐπισχών.", "Menoetiaden (“son of Menoetius,” i.e. Patroclus). (Camps, 70). Both\nMenoetius and Patroclus moved to Phthia, after Patroclus killed a man (OCD, New\nPauly).", "Achilles" ]
+  } ]
+}

@@ -1,0 +1,3319 @@
+[ {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#c08943b8-6f0a-4502-9bff-fd5c33e067c2",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Location",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:32:00+00:00",
+    "purpose" : "tagging"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/434423626",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:32:00+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Via Sacra",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:32:00+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1449,
+      "end" : 1473
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Sacra currere rostra Via"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#ccebe41b-6610-4cbf-ab92-1bf82aa9dfa6",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Monument",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:28:23+00:00",
+    "purpose" : "tagging"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/727197",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:28:23+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1286,
+      "end" : 1291
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Phari"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#b26b892d-4ac7-4244-a3ea-672d26beaf96",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/314921",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:23:19+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 967,
+      "end" : 978
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Carthaginis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#260c7072-5793-44a2-bb9a-9e487e91af2a",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:28:49+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/1332",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:31:26+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "PirithousIxioniden\n(“son of Ixion,” i.e. Pirithous) – Pirithous is a Lapith who fought centaurs (Il. 1. 263 ff.)\n– friend of Theseus (Od. 21. 295 ff. and Od. 11. 631) OCD. Ixion, Pirithous’ father, was a ~legendary\nking~ of Thessaly. (Champs, 70)",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:33:05+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Ixioniden\n(“son of Ixion,” i.e. Pirithous) – Pirithous is a Lapith who fought centaurs (Il. 1. 263 ff.)\n– friend of Theseus (Od. 21. 295 ff. and Od. 11. 631) OCD. Ixion, Pirithous’ father, was a ~legendary\nking~ of Thessaly.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:33:05+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1616,
+      "end" : 1625
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Ixioniden"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#a5fdce6f-92b2-4863-8ecb-56d7ed7cd32d",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Mythological; Historical",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:22:46+00:00",
+    "purpose" : "tagging"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:22:46+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "RemusCamps argues that Remus must mean Romulus (p. 69). He provides details. . . I'm not sure.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-03-29T01:43:52+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-15T19:11:40+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "regna . . . Remi",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-15T19:11:40+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 951,
+      "end" : 955
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Remi"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#ea3d01d5-e81a-4f74-ae01-929a09c54ef6",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-15T19:18:13+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2761,
+      "end" : 2768
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "patriis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#afeec0c6-f8c9-446f-9821-e5b08cec7c2b",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/413122",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:20:09+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1246,
+      "end" : 1254
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Etruscae"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#92398d2b-797e-4d44-a29d-b0cdcecf19e6",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:05:08+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:41:07+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Propertius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:05:08+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3304,
+      "end" : 3308
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "meae"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#9e946a90-87e1-4db1-bff2-cb2ea613ec1f",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:32:10+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Propertius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:32:10+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:40:32+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2377,
+      "end" : 2381
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "mihi"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#93ab83c6-6b4d-4cc4-bb21-5096b1fb0c9a",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Pergamum? Thus, says the Loeb",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-03-29T01:48:56+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/550595",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:58:16+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Verify in Camps",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:58:16+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Pergăma is defined as a plural noun meaning \"the citadel of Troy, poet. for Troy\" (Lewis and Short).",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:49:54+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 875,
+      "end" : 882
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Pergama"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#0efe4a0c-3468-4468-af84-6c8a765cfcfd",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:32:10+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Propertius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:32:10+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:43:47+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:54:46+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2904,
+      "end" : 2908
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "mihi"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#e010f0a3-e356-4023-bcee-0badc89121a2",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:58:43+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 157,
+      "end" : 168
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "ipsa puella"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#4a912d5c-fed1-40b6-a767-ae0f43b6a60f",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:28:38+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Rome - here named as Urbem",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:28:38+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1344,
+      "end" : 1349
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "urbem"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#b1ab2453-1423-4181-a85f-a99abcb6fc94",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:20:16+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Mythological",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:20:32+00:00",
+    "purpose" : "tagging"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:21:07+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Mount Hellicon (Hesiod, Theogony 1 ff).",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-21T22:31:17+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/540808",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-21T22:31:47+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 100,
+      "end" : 108
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Calliope"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#f0caeb54-2b1c-4843-adc4-8c811fa10ff0",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Mythological",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:27:39+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Hellen of Troy",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:27:39+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/550595",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T01:08:58+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2256,
+      "end" : 2262
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Helena"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#2895d507-9e41-47b0-a75e-39108c952c2d",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Mythological",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:26:39+00:00",
+    "purpose" : "tagging"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:26:39+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Iuppiter",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:26:39+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1773,
+      "end" : 1778
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Iovis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#36615071-ca67-4509-8bc8-00a76b63334e",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-03T03:24:35+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Homer",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-03T03:24:35+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 889,
+      "end" : 895
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Homeri"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#3fe4479c-0011-414f-b955-34224c8294c2",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/599581",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:20:27+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 231,
+      "end" : 234
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Coa"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#6891615c-47a4-4c85-8609-e12520bffd05",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Pertaining to a place.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:26:19+00:00",
+    "purpose" : "tagging"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/570228",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:26:19+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "deus ... Epidaurius = Asclepius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:26:19+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2730,
+      "end" : 2740
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Epidaurius"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#1b377018-ffdd-42d7-ab05-5fddb9cd1b55",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/20419",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:32:30+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Verify this identification again.Is it a noun or an adjective?",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:50:40+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3379,
+      "end" : 3387
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Britanna"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#56c475c2-ab7a-4b65-8bee-e1e69655b458",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Pelion is a mythical (?) mountain.Ossa is a Mythical? MountainOtus and Ephialtes placed mountains on top of other mountains: Ossa on top of Olympus and Pelion on top of Ossa.Odyssey 11.315",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-03-29T01:37:58+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 829,
+      "end" : 835
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Pelion"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#ba592b6f-a794-4487-a170-a4532ca4b1f0",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/540837",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:36:12+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2427,
+      "end" : 2436
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Iolciacis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#b3c6793f-d392-4481-b710-ee6910f708b5",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:38:46+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2972,
+      "end" : 2981
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "virgineis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#898a4da4-415b-407e-945e-c1f1984ce2a0",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:40:23+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1966,
+      "end" : 1972
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "arator"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#e7f5770b-30a6-4ba2-976c-3ff002ad9ed6",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:23:34+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/570756",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:23:34+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Jhy trans “the potions of the step-mother Phaedra which\nmust be touched by me”\n\n \n\nPhaedra – second wife of Theseus - Tried to seduce her\nson-in-law Hippolytus (New Pauly) \n\n– in Troezen/Trozen (Eur. Hippolytus\n10-14)",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:36:18+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2325,
+      "end" : 2334
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Phaedrae,"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#841ecb52-3d52-425e-ae93-8b7d06e460fc",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Book",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:21:53+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Book",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:21:53+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/550595",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:58:45+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 577,
+      "end" : 584
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Iliadas"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#5d788fcd-e360-4c60-a61b-025df528248c",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:21:16+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1582,
+      "end" : 1589
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "superis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#51fe126a-35ff-41ac-a614-c16aafc4f7aa",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Ptolemaeei . . . Phari Ptolemy resided in Alexandria where also was the lighthouse of Pharos.To which Ptolemy, however, is Propertius referring?",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-06T02:22:07+00:00",
+    "purpose" : "commenting"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-06T02:22:07+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/727070",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:46:21+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1262,
+      "end" : 1272
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Ptolemaeei"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#27969d01-a1f0-48bb-b09e-efeefab809f6",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-15T19:16:43+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Iliad 9.484ναῖον δ’ ἐσχατιὴν Φθίης Δολόπεσσιν ἀνάσσων.καί σε τοσοῦτον ἔθηκα θεοῖς ἐπιείκελ’ Ἀχιλλεῦ,   (485)ἐκ θυμοῦ φιλέων, ἐπεὶ οὐκ ἐθέλεσκες ἅμ’ ἄλλῳ οὔτ’ ἐς δαῖτ’ ἰέναι οὔτ’ ἐν μεγάροισι πάσασθαι,πρίν γ’ ὅτε δή σ’ ἐπ’ ἐμοῖσιν ἐγὼ γούνεσσι καθίσσαςὄψου τ’ ἄσαιμι προταμὼν καὶ οἶνον ἐπισχών.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T01:43:53+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/541052",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T01:44:21+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2663,
+      "end" : 2672
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Phoenicis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#ef874b7a-c79c-4bc6-98ba-89e5c18afce1",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Mythological",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:22:09+00:00",
+    "purpose" : "tagging"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:22:09+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 772,
+      "end" : 779
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Titanas"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#19be7781-00de-432c-b84a-d076f16608c5",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/491677",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:36:47+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 799,
+      "end" : 806
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Olympo\t"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#a1abcf14-f759-46f8-b1e8-9081f5c6906d",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/609502",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:23:23+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Pertaining to a location",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:23:23+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1901,
+      "end" : 1909
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Phrygios"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#80ef3bac-c069-46d8-bf95-67d90f1c7000",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-03T03:26:10+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Caesar",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-03T03:26:10+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Historical",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-03T03:29:08+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1889,
+      "end" : 1897
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Caesaris"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#ee173a36-14d0-4096-ab2d-51528fb51775",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/874432",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:34:59+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2419,
+      "end" : 2426
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Colchis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#3b1de051-c675-4818-9ea7-b34ed065ed23",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-03-29T01:51:33+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/387335",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-03-29T01:54:09+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "\"Cimbrorumque minas: the menace averted by Marius' victory over the Cimbri at the Raudine plains in 101 B.C.\" (Camps 69).\"Raudii Campi (or Campus Raudius) is the name of a plain located in Cisalpine Gaul where, in 101 BC, Caius Marius and Catulus defeated the Cimbri. The precise location, perhaps near Verona, is not certain.\"https://pleiades.stoa.org/places/387335",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-03-29T01:54:09+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/101183",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:27:39+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 989,
+      "end" : 998
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Cimbrorum"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#ae8ebf0e-3a01-4866-8f94-10aa5b20676c",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/863766",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:38:04+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3059,
+      "end" : 3067
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Caucasia"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#bf3876bc-2bf4-4883-a274-8f8a780c642c",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:39:14+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3466,
+      "end" : 3477
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "dura puella"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#dce83896-cc05-4067-a0ef-c0443617e6f4",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:32:02+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Propertius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:32:02+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:36:33+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "PropertiusMoved to Rome (Conte, p 331)",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:36:33+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:53:44+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 57,
+      "end" : 61
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "meus"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#f4d5f10e-46b4-437e-836f-b572129820aa",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:32:10+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Propertius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:32:10+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:40:11+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:54:35+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2290,
+      "end" : 2294
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "mihi"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#889a0a24-bf07-4eff-970f-7f840f43b37b",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:25:16+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/570756",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:25:16+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "privigno . . . suo = Hippolytus, Phaedra's son-in-law",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:25:16+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Phaedra’s privigno\n. . . suo  -- Hippolytus – in Troezen/Trozen\n(Eur.\nHippolytus 10-14)\n\n \n\nAphrodite:\n\nὁ γάρ με Θησέως παῖς, Ἀμαζόνος\nτόκος, / Ἱππόλυτος, ἁγνοῦ Πιτθέως\nπαιδεύματα, / μόνος πολιτῶν τῆσδε γῆς\nΤροζηνίας / λέγει κακίστην δαιμόνων\nπεφυκέναι . . . (Eur. Hippolytus\n10-14)\n\n“The truth of these words I\nshall shortly demonstrate. Theseus’ son Hippolytus, offspring of the Amazon\nwoman and ward of holy Pittheus, alone among the citizens of this land of\nTrozen, says that I am the worst of deities. “\n\nDOI: 10.4159/DLCL.euripides-hippolytus.1995",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:36:03+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2345,
+      "end" : 2370
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "privigno non nocitura suo"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#8a6f698f-809a-4ad5-813c-79dafc080548",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-06T02:23:26+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Healed at Troy by MachaonPhiloctetes \"There, P. is cured by Machaon or Podaleirius; and by killing Paris with an arrow, he contributes decisively to the fall of Troy (this is treated in the Ilias parva, EpGF p. 52; subject of a dithyramb (hymn to Dionysus) by Bacchylides, fr. 7; Soph. Phil. 604-613; Apollod. Epit. 5,8).\" (New Pauly).",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:54:06+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/550595",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:55:45+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2625,
+      "end" : 2636
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Philoctetae"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#33a404f2-92a1-40cf-883f-3e5583871c65",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:28:53+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/541052",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:32:34+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Menoetiaden (“son of Menoetius,” i.e. Patroclus). (Camps, 70). Both\nMenoetius and Patroclus moved to Phthia, after Patroclus killed a man (OCD, New\nPauly).",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:32:34+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/550595",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:57:19+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1632,
+      "end" : 1643
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Menoetiaden"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#c451210e-fc48-4fca-a74a-2a76e305fa57",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:31:53+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Propertius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:31:53+00:00",
+    "purpose" : "commenting"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:37:58+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:37:58+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 151,
+      "end" : 156
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "nobis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#f9460060-2875-40a1-a875-2462c1eaebfc",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/541138",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-03-29T01:40:12+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Thebes",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-03-29T01:40:12+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Which thebes?",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T19:56:50+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 863,
+      "end" : 869
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Thebas"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#47ba60a5-64fc-43b0-aede-e15cf03d822d",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:39:56+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Propertius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:04:40+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:41:33+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:55:25+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3323,
+      "end" : 3326
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "meo"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#cbc0d116-df8a-443c-9baf-64d40750ddc8",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:34:24+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:56:20+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Maecenas",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:03:14+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:55:19+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3227,
+      "end" : 3235
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Maecenas"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#cc74ad8f-57be-4569-995e-d17842d83550",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:55:06+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3237,
+      "end" : 3244
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "nostrae"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#d21edc19-98d6-4fb4-983b-2fb930b1b6bd",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Barrington Atlas 57 B2)",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-21T22:17:57+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/541021",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:21:58+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 829,
+      "end" : 835
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Pelion"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#d7afd292-d64c-45d8-aefb-393d57ce7fda",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/1332",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T01:58:20+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2797,
+      "end" : 2805
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Haemonia"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#29489625-06c4-4ea0-beea-2e5a5b12328e",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-15T19:18:06+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/541052",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T01:58:41+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Achilles",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T01:58:41+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2806,
+      "end" : 2813
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "iuvenis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#f58fad34-0cdc-43b3-a25d-8b387445dae6",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-03T03:26:10+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Caesar",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-03T03:26:10+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T02:36:21+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "For now, I am placing Caesar at Rome",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T02:36:21+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1058,
+      "end" : 1066
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Caesaris"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#6b19c384-7028-457c-9db4-0f6e613c60eb",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "rupis Prometheus (the rock of Prometheus)",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:31:21+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3078,
+      "end" : 3092
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "rupe Promethei"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#9a25951f-25a3-42c0-965a-8371da88a1e4",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/727172",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:25:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1320,
+      "end" : 1325
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Nilum"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#7f24e437-8e30-4a47-b16a-4aae2b7befb7",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Pertaining to a location",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:33:52+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Actia . . . rostra: \"Actian ship-beaks\"Evoking the battle of Actium and, I add, the location itself (for instance the focus on the ship-beaks, which, I argue, are metonymy for the battle which took place on the sea). See Camps (1967), 70 for a discussion on the identification of these rostra and his suggestion that these are indicative of a Triumph.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:40:26+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Pertaining to an event.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:34:43+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Pertaining to a celebration.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:34:43+00:00",
+    "purpose" : "tagging"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/530772",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:40:26+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1437,
+      "end" : 1442
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Actia"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#8b821c8b-3b01-4bc0-8898-eaef0f02e1f3",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/766",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:27:49+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1308,
+      "end" : 1316
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Aegyptum"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#5508beaf-f932-44e7-90c0-87f53ba83c6c",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Mythological",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:29:33+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "deus . . . Epidaurius = Asclepius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:26:51+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2706,
+      "end" : 2710
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "deus"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#952e73f9-5249-4844-9bdb-1d9466f285b6",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Xerxes, son of Darius I",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-13T20:02:32+00:00",
+    "purpose" : "commenting"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-13T20:02:32+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/922695",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-13T20:02:32+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 900,
+      "end" : 906
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Xerxis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#eef08098-3aa7-4bc4-8ef0-1b529b21a325",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Mythological",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:26:13+00:00",
+    "purpose" : "tagging"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:26:13+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/541052",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:29:11+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/550595",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:56:50+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1599,
+      "end" : 1607
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Achilles"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#04c27c29-9276-4009-89f3-b287747e5270",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-06T02:23:33+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/550595",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:56:04+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2651,
+      "end" : 2658
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Machaon"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#b4119586-a41e-4de5-b660-ce04cf0f7f56",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Mythological",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-03T03:27:49+00:00",
+    "purpose" : "tagging"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:28:11+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/579885",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:28:11+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1564,
+      "end" : 1571
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Theseus"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#67a9722f-2a5d-4945-b079-b695b56356c2",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:21:13+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1572,
+      "end" : 1580
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "infernis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#06bd1216-ac04-410d-829c-1afeaad43ddc",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Phlegraean fields?",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:36:02+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/432744",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:32:19+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Phlegraean fields, according to Camps, reputed to be in Thessaly or near Cumae in Italy (71).",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:32:19+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1762,
+      "end" : 1772
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Phlegraeos"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#6004838c-4811-41b8-be41-2ee820e0019e",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:34:07+00:00",
+    "purpose" : "identifying"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:34:07+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/373778",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:34:07+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1829,
+      "end" : 1840
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Callimachus"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#0a3550bd-8762-44c2-83b0-27bd4cc253b4",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/462492",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:42:07+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1182,
+      "end" : 1189
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Siculae"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#ef911c70-805c-456e-bad8-a9ccce9172c2",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:31:37+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Propertius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:31:37+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:36:52+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Moved to Rome (Conte, p 331)",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:36:52+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:53:41+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 17,
+      "end" : 21
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "mihi"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#3dc5e9e1-e7c0-4132-9c20-7a9cfbcef0b5",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:32:10+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Propertius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:32:10+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Moved to Rome (Conte, p 331)",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:37:12+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:37:25+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:53:48+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 119,
+      "end" : 123
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "mihi"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#9efa5090-4aa3-4bea-ad2e-7aca6d1712e1",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "From East to West, the seven mouths of the Nile: (1) Pelousiakon Stoma, (2) Tantikon/Saitikon Stoma, (3) Mendesion Stoma, (4) Phatnitikon Stoma, (5) Sebennytikon Stoma, (6) Bolbitinon Stoma, (7) Kanobikon Stoma.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:01:37+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/727191",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:06:54+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/727239",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:06:54+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/727157",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:06:54+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/727198",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:06:54+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/727224",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:06:54+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/727086",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:06:54+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/727137",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:06:54+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Konobikon Stoma is in the wrong location",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:06:54+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1353,
+      "end" : 1387
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "septem captivis debilis ibat aquis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#6d25613e-c6aa-46ea-8e7b-b55c6bb7d2d4",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:26:45+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:26:45+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Propertius.In my map - focus on the places evoked in this poem - here personal pronouns are (of Propertius) evoke roman setting not likely the place of his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium (http://pleiades.stoa.org/places/413032) Especially since the end of the poem is the setting of Propertius’ bustum.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:26:45+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 526,
+      "end" : 531
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "mecum"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#83c39e01-a128-42e0-a0a0-2ffbf6b681ea",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:32:40+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Marius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:32:40+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T19:27:32+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "From around Arpinum. Lived in Rome and held office in Rome as novus homo (New Pauly). There is also an elogium of Marius in the Forum of Augistus (See https://tinyurl.com/elogium-of-Marius)",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T19:27:32+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1021,
+      "end" : 1025
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Mari"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#5598286d-f0fe-49cc-b165-9f6162deae2f",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Mythological",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:26:01+00:00",
+    "purpose" : "tagging"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:26:01+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/540808",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-21T22:32:46+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1483,
+      "end" : 1487
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Musa"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#0f8151ff-2a4e-462a-aa62-f74660d6abf0",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Book",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:27:25+00:00",
+    "purpose" : "tagging"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Iliad",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:27:25+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/550595",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T01:09:45+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2274,
+      "end" : 2280
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Iliada"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#954744e1-ff4d-4487-a18d-045658e318f1",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:58:34+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:58:34+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 0,
+      "end" : 10
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "﻿Quaeritis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#a9c454dc-e8db-4fd8-bb81-91e094e567be",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:42:33+00:00",
+    "purpose" : "identifying"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T14:59:38+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:57:08+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Maecenas",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T14:59:38+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "When was Book 2 written/published?When was the House of Maecenas on the Esquiline built?",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:19:33+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:54:13+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1044,
+      "end" : 1047
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "tui"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#d1b9a5cd-bf1f-4229-909a-8fb5cda250fa",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:39:21+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:55:52+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Maecenas",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:03:35+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:55:22+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3314,
+      "end" : 3316
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "te"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#30545cb5-3525-4f96-8168-6ffe743af31d",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:21:31+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Propertius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:21:31+00:00",
+    "purpose" : "commenting"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:22:11+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "mea . . . praecordiaPropertius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:22:11+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:38:55+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1849,
+      "end" : 1852
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "mea"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#b18ec023-b6b4-4517-b470-89aa6f566d85",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:28:08+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/541021",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T00:37:44+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "At least Pindar (Pythian Ode 3.?) locates Chiron and his mother Phillyra (?) at Pelion.http://data.perseus.org/texts/urn:cts:greekLit:tlg0033.tlg002.perseus-eng1",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T00:37:44+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2673,
+      "end" : 2679
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Chiron"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#9a6448d3-4a4e-435d-b7fb-d1d579aaed1c",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-15T19:17:21+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://sws.geonames.org/6697802",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-21T22:34:14+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2722,
+      "end" : 2729
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Cressis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#abe620aa-1692-4fcc-90f8-6a9b9768f866",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-21T22:34:33+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/589748",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T01:47:52+00:00",
+    "purpose" : "identifying"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T01:47:52+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2769,
+      "end" : 2779
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Androgeona"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#36fde197-0d80-4f35-bb83-e2d17b08ea8f",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/383715",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-10T00:59:47+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Who was at this battle?",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-10T00:59:59+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Victory by Octavian (Goold p. 118)",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T02:31:57+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1131,
+      "end" : 1138
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Mutinam"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#02c1b15e-f04c-4c51-88c8-7163c16a8cff",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Adj. form of Tantalus",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:33:03+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2928,
+      "end" : 2937
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Tantaleae"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#c3064f22-1a2c-476c-8dfb-3b746d7ab434",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Mythological",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:31:34+00:00",
+    "purpose" : "tagging"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:31:34+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3083,
+      "end" : 3092
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Promethei"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#4ef462d5-e414-4cb3-802a-f3eee3005f58",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/599581",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:19:28+00:00",
+    "purpose" : "identifying"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:19:28+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "According to W.A. Camps, \"Cois: from the neut. pl. Coa = stuff of Cos, a fine and often transluscent silk-like material.\" (p. 66)",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:19:28+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Pertaining to a location",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-10T00:21:31+00:00",
+    "purpose" : "tagging"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 188,
+      "end" : 192
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Cois"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#36a3b3f6-0ffe-435e-beb6-bb8514be4c51",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/501325",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-10T01:17:11+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "cf. Herodotus, Histories 7.36.1http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-eng1:7.36.1Stephen Mitchell, citing (Hdt. 7. 34, 43 ff.) places the site of Xerxes' crossing of the Hellespont as the harbor in Asia Minor to the west of the Hellespont (Abydos, OCD).",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-10T01:16:11+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 910,
+      "end" : 934
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "imperio bina coisse vada"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#28258b77-86c3-4a71-bf78-1aa63ca5ce01",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/432783",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:20:07+00:00",
+    "purpose" : "identifying"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:20:07+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Circe\n– “ Homerplaces her island of Aeaea at\nthe extreme east of the world (Od. 12. 3–4), but\nas early as Hesiod, Theog.1011–16 she is\nassociated also with the west and frequently placed at Monte Circeo (see circeii) on the coast of Latium (so Apollonius (1) of Rhodes and Virgil; cf. Hunter on Ap. Rhod. Arg. 3. 311–13).”\nOCD, “Circe” by Richard Hunter",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:35:42+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2382,
+      "end" : 2389
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Circaeo"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#7f3aa965-e376-481d-87fe-b343b9c84c7b",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:33:02+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Propertius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:33:02+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:40:53+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:54:40+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2459,
+      "end" : 2463
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "meos"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#8e8682e0-70e6-458c-81dc-926ba88235e3",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:55:00+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3237,
+      "end" : 3244
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "nostrae"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#d578e5a4-bd0b-4cb2-9b70-c8db2c22cbad",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:55:14+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3237,
+      "end" : 3244
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "nostrae"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#3075910b-2904-4cdd-a990-2477febfc9b4",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:20:56+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Roman Triumph",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-21T22:32:24+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1394,
+      "end" : 1433
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "regum auratis circumdata colla catenis,"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#505638db-2a6a-4aa1-bf4b-702642ef46ed",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Mythological",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:20:53+00:00",
+    "purpose" : "tagging"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:21:28+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/599588",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-21T22:17:32+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "For now I am placing Apollo at Delos, his birthplace, acording to the Homeric Hymns",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-21T22:17:14+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 131,
+      "end" : 137
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Apollo"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#0d8ef700-1366-4922-98a4-46255d93010b",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:58:18+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:58:18+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 0,
+      "end" : 10
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "﻿Quaeritis"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#8efff8a8-9820-4b5d-9254-4c24cb701664",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-03T03:25:15+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Maecenas",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T14:58:30+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:57:42+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "When was Book 2 written/published?When was the House of Maecenas on the Esquiline built?",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:19:27+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:54:00+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 695,
+      "end" : 703
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Maecenas"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#7a0c0084-fc61-42b0-a4fd-aad237a5495d",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-08T00:42:46+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:57:22+00:00",
+    "purpose" : "identifying"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T14:59:14+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Maecenas",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T14:59:46+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "When was Book 2 written/published?When was the House of Maecenas on the Esquiline built?",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:19:37+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:54:18+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1071,
+      "end" : 1073
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "tu"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#9a2d6351-453b-417d-aa96-893c8ce26fd4",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:32:10+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Propertius",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:32:10+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-17T15:38:35+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "In my map - focus on the places evoked in this poem - here\npersonal pronouns are (of Propertius) evoke roman setting not likely the place\nof his birth (Assisium). I argue the same for Maecenas. – Rome and not Arretium\n(http://pleiades.stoa.org/places/413032)\n\nEspecially since the end of the poem is the setting of Propertius’\nbustum.",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T18:53:53+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 679,
+      "end" : 683
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "mihi"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#4b908eef-4b15-496b-8cc2-ef82f34c8f42",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Mt. Ossa (Barrington Atlas 57 A2)Otus and Ephialtes placed mountains on top of other mountains: Ossa on top of Olympus and Pelion on top of Ossa.Odyssey 11.315",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:20:15+00:00",
+    "purpose" : "commenting"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/540993",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-20T20:20:15+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 793,
+      "end" : 798
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Ossan"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#ce63ac6a-ac73-494d-a499-4a65e86b2c95",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-15T19:16:48+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/541021",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T00:38:06+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "At least Pindar (Pythian Ode 3.?) locates Chiron and his mother Phillyra (?) at Pelion.http://data.perseus.org/texts/urn:cts:greekLit:tlg0033.tlg002.perseus-eng1",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T00:38:06+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2687,
+      "end" : 2698
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Phillyrides"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#6e3581e4-7874-4072-b8ab-a20716762420",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-15T19:17:55+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/550759",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T01:57:02+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2788,
+      "end" : 2793
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Mysus"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#5b074ba6-5818-4a51-a6c3-78cf1416c6c7",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Mythological",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:26:55+00:00",
+    "purpose" : "tagging"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:34:49+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Enceladus\n– buried under  Mt. Aetna (Camps, ?) (New Pauly and OCD)",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-14T20:34:49+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1779,
+      "end" : 1790
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Enceladique"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#f48272ae-086f-4333-a64f-cfbf5e397429",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "id" : "http://pleiades.stoa.org/places/501564",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-10T01:02:26+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Who again was at Philippi?Octavian and Antony?",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-10T01:02:26+00:00",
+    "purpose" : "commenting"
+  }, {
+    "type" : "TextualBody",
+    "value" : "Victory by Octavian (Goold p. 118)",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T02:32:09+00:00",
+    "purpose" : "commenting"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1157,
+      "end" : 1166
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Philippos"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/document/b48xkvqevtqboy#1bdfb451-68ac-4334-bc99-8f79f05904a3",
+  "type" : "Annotation",
+  "generator" : "https://recogito.pelagios.org/",
+  "generated" : "2018-04-22T02:39:14+00:00",
+  "body" : [ {
+    "type" : "TextualBody",
+    "value" : "Historical",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:23:29+00:00",
+    "purpose" : "tagging"
+  }, {
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-02-04T04:23:29+00:00",
+    "purpose" : "identifying"
+  }, {
+    "id" : "http://pleiades.stoa.org/places/423025",
+    "creator" : "https://recogito.pelagios.org/J_Young313",
+    "modified" : "2018-04-22T02:36:39+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/document/b48xkvqevtqboy/edit?part=6affd2da-e5a9-4c84-9ee7-ef9e43e434eb",
+    "type" : "Text",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1079,
+      "end" : 1086
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Caesare"
+    } ]
+  }
+} ]
