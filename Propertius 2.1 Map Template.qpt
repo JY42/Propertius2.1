@@ -1,0 +1,200 @@
+<Composer title="Composer 4" visible="1">
+ <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{2f3a7933-7db7-4cf1-afe3-73a637f66258}" alignmentSnap="1" printResolution="1000" paperWidth="594" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="420" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+  <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+   <layer pass="0" class="SimpleFill" locked="0">
+    <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="joinstyle" v="miter"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="outline_color" v="0,0,0,255"/>
+    <prop k="outline_style" v="no"/>
+    <prop k="outline_width" v="0.26"/>
+    <prop k="outline_width_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+   </layer>
+  </symbol>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="&quot;Explicit and Implicit Places in Propertius 2.1&quot;&#xa;Jonathan H. Young&#xa;&#xa;" htmlState="0" halign="4">
+   <LabelFont description="Times New Roman,16,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="108.768" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="362.17" y="108.768" visibility="1" zValue="12" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="120.801" outlineWidth="0.3" excludeFromExports="0" uuid="{0c7edec8-c974-411c-ab03-bb4912cf4d05}" height="23.6853" itemRotation="0" frame="false" pagex="362.17">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Basemap adapted from &quot;Map 8.2 Expansion of the Empire in the Age of Augustus &quot;© 2012 Ancient World Mapping Center. Released under CC BY-NC 3.0. Geo-Rectified by Jonathan H. Young, 2018. http://creativecommons.org/licenses/by-nc/3.0/" htmlState="0" halign="4">
+   <LabelFont description="Times New Roman,10,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="132.453" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="370.955" y="132.453" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="103.232" outlineWidth="0.3" excludeFromExports="0" uuid="{3f3cc578-9d64-4d5a-9fc5-11052b3640ae}" height="18.3226" itemRotation="0" frame="false" pagex="370.955">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLegend symbolWidth="7" title="Legend" rasterBorderWidth="0" titleAlignment="1" map="0" wmsLegendWidth="50" rasterBorderColor="0,0,0,255" wrapChar="" fontColor="#000000" legendFilterByAtlas="0" columnCount="1" legendFilterByMap="1" wmsLegendHeight="25" columnSpace="2" symbolHeight="4" equalColumnWidth="0" resizeToContents="1" splitLayer="0" boxSpace="2" rasterBorder="1">
+   <styles>
+    <style marginBottom="2" name="title">
+     <styleFont description="Times New Roman,16,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginTop="2" name="group">
+     <styleFont description="Times New Roman,14,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginTop="2" name="subgroup">
+     <styleFont description="Times New Roman,12,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginTop="2" name="symbol">
+     <styleFont description="MS Shell Dlg 2,7.5,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginTop="2" marginLeft="2" name="symbolLabel">
+     <styleFont description="Times New Roman,12,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+   </styles>
+   <ComposerItem pagey="7" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="7" y="7" visibility="1" zValue="10" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="68.4" outlineWidth="0.3" excludeFromExports="0" uuid="{e044a6d9-ab69-4919-8bcc-d648ebd5258d}" height="73.4013" itemRotation="0" frame="false" pagex="7">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLegend>
+  <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
+   <Extent ymin="25.7656252818206255" xmin="-7.79951543817901438" ymax="73.87957254712539168" xmax="55.65152555694012193"/>
+   <LayerSet/>
+   <Grid/>
+   <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{9e77fdd0-df6b-4083-a59d-226ca592d40f}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+    <lineStyle>
+     <symbol alpha="1" clip_to_extent="1" type="line" name="">
+      <layer pass="0" class="SimpleLine" locked="0">
+       <prop k="capstyle" v="square"/>
+       <prop k="customdash" v="5;2"/>
+       <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="customdash_unit" v="MM"/>
+       <prop k="draw_inside_polygon" v="0"/>
+       <prop k="joinstyle" v="bevel"/>
+       <prop k="line_color" v="0,0,0,255"/>
+       <prop k="line_style" v="solid"/>
+       <prop k="line_width" v="0"/>
+       <prop k="line_width_unit" v="MM"/>
+       <prop k="offset" v="0"/>
+       <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="offset_unit" v="MM"/>
+       <prop k="use_custom_dash" v="0"/>
+       <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+     </symbol>
+    </lineStyle>
+    <markerStyle>
+     <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+      <layer pass="0" class="SimpleMarker" locked="0">
+       <prop k="angle" v="0"/>
+       <prop k="color" v="0,0,0,255"/>
+       <prop k="horizontal_anchor_point" v="1"/>
+       <prop k="joinstyle" v="bevel"/>
+       <prop k="name" v="circle"/>
+       <prop k="offset" v="0,0"/>
+       <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="offset_unit" v="MM"/>
+       <prop k="outline_color" v="0,0,0,255"/>
+       <prop k="outline_style" v="solid"/>
+       <prop k="outline_width" v="0"/>
+       <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="outline_width_unit" v="MM"/>
+       <prop k="scale_method" v="diameter"/>
+       <prop k="size" v="2"/>
+       <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="size_unit" v="MM"/>
+       <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+     </symbol>
+    </markerStyle>
+    <annotationFontProperties description="MS Shell Dlg 2,7.5,-1,5,50,0,0,0,0,0" style=""/>
+   </ComposerMapGrid>
+   <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+   <ComposerItem pagey="7" page="1" id="" lastValidViewScaleFactor="4.72441" positionMode="0" positionLock="false" x="7" y="7" visibility="1" zValue="7" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="513" outlineWidth="2" excludeFromExports="0" uuid="{2f3a7933-7db7-4cf1-afe3-73a637f66258}" height="389" itemRotation="0" frame="true" pagex="7">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerAttributeTableV2 vectorLayerName="April-17_Propertius-2.1" source="0" showGrid="1" maxFeatures="30" resizeMode="0" filterFeatures="false" featureFilter="" emptyTableMode="0" wrapString="" wrapBehaviour="0" headerMode="0" backgroundColor="255,255,255,255" showEmptyRows="0" emptyTableMessage="" showOnlyVisibleFeatures="0" vectorLayer="April_17_Propertius_2_120180417144933794" vectorLayerSource="C:/Users/dogwo/OneDrive - University of Iowa/a. Spring 2018/Augustan Rome/Research/Mapping Files/April-17_Propertius-2.1.csv" composerMap="0" headerHAlignment="0" contentFontColor="0,0,0,255" headerFontColor="0,0,0,255" cellMargin="1" filterToAtlasIntersection="0" relationId="" gridStrokeWidth="0.5" gridColor="0,0,0,255" showUniqueRowsOnly="0" vectorLayerProvider="ogr">
+   <headerFontProperties description="MS Shell Dlg 2,7.5,-1,5,50,0,0,0,0,0" style=""/>
+   <contentFontProperties description="MS Shell Dlg 2,7.5,-1,5,50,0,0,0,0,0" style=""/>
+   <displayColumns>
+    <column width="0" vAlignment="128" attribute="titles" sortByRank="0" hAlignment="1" heading="titles" sortOrder="0">
+     <backgroundColor alpha="0" red="0" blue="0" green="0"/>
+    </column>
+    <column width="0" vAlignment="128" attribute="annotations" sortByRank="0" hAlignment="1" heading="annotations" sortOrder="0">
+     <backgroundColor alpha="0" red="0" blue="0" green="0"/>
+    </column>
+   </displayColumns>
+   <cellStyles>
+    <oddColumns enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <evenColumns enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <oddRows enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <evenRows enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <firstColumn enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <lastColumn enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <headerRow enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <firstRow enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <lastRow enabled="0" cellBackgroundColor="255,255,255,255"/>
+   </cellStyles>
+   <customproperties/>
+  </ComposerAttributeTableV2>
+  <ComposerAttributeTableV2 vectorLayerName="April-17_Propertius-2.1" source="0" showGrid="1" maxFeatures="30" resizeMode="0" filterFeatures="false" featureFilter="" emptyTableMode="0" wrapString="" wrapBehaviour="0" headerMode="0" backgroundColor="255,255,255,255" showEmptyRows="0" emptyTableMessage="" showOnlyVisibleFeatures="0" vectorLayer="April_17_Propertius_2_120180417144933794" vectorLayerSource="C:/Users/dogwo/OneDrive - University of Iowa/a. Spring 2018/Augustan Rome/Research/Mapping Files/April-17_Propertius-2.1.csv" composerMap="0" headerHAlignment="0" contentFontColor="0,0,0,255" headerFontColor="0,0,0,255" cellMargin="1" filterToAtlasIntersection="0" relationId="" gridStrokeWidth="0.5" gridColor="0,0,0,255" showUniqueRowsOnly="0" vectorLayerProvider="ogr">
+   <headerFontProperties description="MS Shell Dlg 2,7.5,-1,5,50,0,0,0,0,0" style=""/>
+   <contentFontProperties description="MS Shell Dlg 2,7.5,-1,5,50,0,0,0,0,0" style=""/>
+   <displayColumns>
+    <column width="0" vAlignment="128" attribute="titles" sortByRank="0" hAlignment="1" heading="titles" sortOrder="0">
+     <backgroundColor alpha="0" red="0" blue="0" green="0"/>
+    </column>
+    <column width="0" vAlignment="128" attribute="annotations" sortByRank="0" hAlignment="1" heading="annotations" sortOrder="0">
+     <backgroundColor alpha="0" red="0" blue="0" green="0"/>
+    </column>
+   </displayColumns>
+   <cellStyles>
+    <oddColumns enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <evenColumns enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <oddRows enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <evenRows enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <firstColumn enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <lastColumn enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <headerRow enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <firstRow enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <lastRow enabled="0" cellBackgroundColor="255,255,255,255"/>
+   </cellStyles>
+   <customproperties/>
+  </ComposerAttributeTableV2>
+  <ComposerAttributeTableV2 vectorLayerName="Propertius 2.1" source="0" showGrid="1" maxFeatures="106" resizeMode="1" filterFeatures="false" featureFilter="" emptyTableMode="0" wrapString="" wrapBehaviour="0" headerMode="0" backgroundColor="255,255,255,255" showEmptyRows="0" emptyTableMessage="" showOnlyVisibleFeatures="0" vectorLayer="Propertius_2_120180410135650381" vectorLayerSource="C:/Users/dogwo/OneDrive - University of Iowa/a. Spring 2018/Augustan Rome/Research/Mapping Files/Propertius 2.1.json" composerMap="0" headerHAlignment="0" contentFontColor="0,0,0,255" headerFontColor="0,0,0,255" cellMargin="1" filterToAtlasIntersection="0" relationId="" gridStrokeWidth="0.5" gridColor="0,0,0,255" showUniqueRowsOnly="0" vectorLayerProvider="ogr">
+   <headerFontProperties description="MS Shell Dlg 2,7.5,-1,5,50,0,0,0,0,0" style=""/>
+   <contentFontProperties description="MS Shell Dlg 2,7.5,-1,5,50,0,0,0,0,0" style=""/>
+   <displayColumns>
+    <column width="0" vAlignment="128" attribute="titles" sortByRank="0" hAlignment="1" heading="titles" sortOrder="0">
+     <backgroundColor alpha="0" red="0" blue="0" green="0"/>
+    </column>
+    <column width="0" vAlignment="128" attribute="annotations" sortByRank="0" hAlignment="1" heading="annotations" sortOrder="0">
+     <backgroundColor alpha="0" red="0" blue="0" green="0"/>
+    </column>
+   </displayColumns>
+   <cellStyles>
+    <oddColumns enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <evenColumns enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <oddRows enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <evenRows enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <firstColumn enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <lastColumn enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <headerRow enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <firstRow enabled="0" cellBackgroundColor="255,255,255,255"/>
+    <lastRow enabled="0" cellBackgroundColor="255,255,255,255"/>
+   </cellStyles>
+   <ComposerFrame sectionWidth="57.8" sectionHeight="244.962" hideBackgroundIfEmpty="0" hidePageIfEmpty="0" sectionX="0" sectionY="0">
+    <ComposerItem pagey="87.519" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="526.35" y="87.519" visibility="1" zValue="8" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="57.8" outlineWidth="0.3" excludeFromExports="0" uuid="{adc0448e-796d-44ec-b731-5846771db5a7}" height="244.962" itemRotation="0" frame="false" pagex="526.35">
+     <FrameColor alpha="255" red="0" blue="0" green="0"/>
+     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+     <customproperties/>
+    </ComposerItem>
+   </ComposerFrame>
+   <customproperties/>
+  </ComposerAttributeTableV2>
+  <customproperties/>
+ </Composition>
+</Composer>
