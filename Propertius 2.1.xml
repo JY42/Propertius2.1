@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+          <fileDesc>
+            <titleStmt><title>Propertius:  2.1</title></titleStmt>
+            <publicationStmt>
+              <p/>              
+            </publicationStmt>
+            <sourceDesc>
+              <p><link target="https://recogito.pelagios.org/document/b48xkvqevtqboy"/></p> 
+            </sourceDesc>
+          </fileDesc>
+          <encodingDesc>
+            <projectDesc><p>Downloaded from https://recogito.pelagios.org/</p></projectDesc>
+          </encodingDesc>
+        </teiHeader>
+        <text>
+          <body><div><p><persName n="954744e1-ff4d-4487-a18d-045658e318f1">﻿Quaeritis</persName>, unde <persName n="ef911c70-805c-456e-bad8-a9ccce9172c2">mihi</persName> totiens scribantur amores,	
+  unde <persName n="dce83896-cc05-4067-a0ef-c0443617e6f4">meus</persName> veniat mollis in ora liber.	
+non haec <persName n="b1ab2453-1423-4181-a85f-a99abcb6fc94">Calliope</persName>, non haec <persName n="3dc5e9e1-e7c0-4132-9c20-7a9cfbcef0b5">mihi</persName> cantat <persName n="505638db-2a6a-4aa1-bf4b-702642ef46ed">Apollo</persName>:	
+  ingenium <persName n="c451210e-fc48-4fca-a74a-2a76e305fa57">nobis</persName> <persName n="e010f0a3-e356-4023-bcee-0badc89121a2">ipsa puella</persName> facit.	
+sive illam <placeName ref="http://pleiades.stoa.org/places/599581" n="4ef462d5-e414-4cb3-802a-f3eee3005f58">Cois</placeName> fulgentem incedere vidi,	5
+  totum de <placeName ref="http://pleiades.stoa.org/places/599581" n="3fe4479c-0011-414f-b955-34224c8294c2">Coa</placeName> veste volumen erit;	
+seu vidi ad frontem sparsos errare capillos,	
+  gaudet laudatis ire superba comis;	
+sive lyrae carmen digitis percussit eburnis,	
+  miramur, facilis ut premat arte manus;	10
+seu compescentis somnum declinat ocellos,	
+  invenio causas mille poeta novas;	
+seu nuda erepto <persName n="6d25613e-c6aa-46ea-8e7b-b55c6bb7d2d4">mecum</persName> luctatur amictu,	
+  tum vero longas condimus <placeName ref="http://pleiades.stoa.org/places/550595" n="841ecb52-3d52-425e-ae93-8b7d06e460fc">Iliadas</placeName>:	
+seu quidquid fecit sivest quodcumque locuta,	15
+  maxima de nihilo nascitur historia.	
+quod <persName n="9a2d6351-453b-417d-aa96-893c8ce26fd4">mihi</persName> si tantum, <persName n="8efff8a8-9820-4b5d-9254-4c24cb701664">Maecenas</persName>, fata dedissent,	
+  ut possem heroas ducere in arma manus,	
+non ego <persName n="ef874b7a-c79c-4bc6-98ba-89e5c18afce1">Titanas</persName> canerem, non <placeName ref="http://pleiades.stoa.org/places/540993" n="4b908eef-4b15-496b-8cc2-ef82f34c8f42">Ossan</placeName> <placeName ref="http://pleiades.stoa.org/places/491677" n="19be7781-00de-432c-b84a-d076f16608c5">Olympo	</placeName>
+  impositam, ut caeli <span>Pelion</span> esset iter,	20
+nec veteres <placeName ref="http://pleiades.stoa.org/places/541138" n="f9460060-2875-40a1-a875-2462c1eaebfc">Thebas</placeName>, nec <placeName ref="http://pleiades.stoa.org/places/550595" n="93ab83c6-6b4d-4cc4-bb21-5096b1fb0c9a">Pergama</placeName> nomen <persName n="36615071-ca67-4509-8bc8-00a76b63334e">Homeri</persName>,	
+  <persName n="952e73f9-5249-4844-9bdb-1d9466f285b6">Xerxis</persName> et <placeName ref="http://pleiades.stoa.org/places/501325" n="36a3b3f6-0ffe-435e-beb6-bb8514be4c51">imperio bina coisse vada</placeName>,	
+regnave prima <persName n="a5fdce6f-92b2-4863-8ecb-56d7ed7cd32d">Remi</persName> aut animos <placeName ref="http://pleiades.stoa.org/places/314921" n="b26b892d-4ac7-4244-a3ea-672d26beaf96">Carthaginis</placeName> altae,	
+  <persName n="3b1de051-c675-4818-9ea7-b34ed065ed23">Cimbrorum</persName>que minas et benefacta <persName n="83c39e01-a128-42e0-a0a0-2ffbf6b681ea">Mari</persName>:	
+bellaque resque <persName n="a9c454dc-e8db-4fd8-bb81-91e094e567be">tui</persName> memorarem <persName n="f58fad34-0cdc-43b3-a25d-8b387445dae6">Caesaris</persName>, et <persName n="7a0c0084-fc61-42b0-a4fd-aad237a5495d">tu</persName>	25
+  <persName n="1bdfb451-68ac-4334-bc99-8f79f05904a3">Caesare</persName> sub magno cura secunda fores.	
+nam quotiens <placeName ref="http://pleiades.stoa.org/places/383715" n="36fde197-0d80-4f35-bb83-e2d17b08ea8f">Mutinam</placeName> aut civilia busta <placeName ref="http://pleiades.stoa.org/places/501564" n="f48272ae-086f-4333-a64f-cfbf5e397429">Philippos</placeName>	
+  aut canerem <placeName ref="http://pleiades.stoa.org/places/462492" n="0a3550bd-8762-44c2-83b0-27bd4cc253b4">Siculae</placeName> classica bella fugae,	
+eversosque focos antiquae gentis <placeName ref="http://pleiades.stoa.org/places/413122" n="afeec0c6-f8c9-446f-9821-e5b08cec7c2b">Etruscae</placeName>,	
+  et <persName n="51fe126a-35ff-41ac-a614-c16aafc4f7aa">Ptolemaeei</persName> litora capta <placeName ref="http://pleiades.stoa.org/places/727197" n="ccebe41b-6610-4cbf-ab92-1bf82aa9dfa6">Phari</placeName>,	30
+aut canerem <placeName ref="http://pleiades.stoa.org/places/766" n="8b821c8b-3b01-4bc0-8898-eaef0f02e1f3">Aegyptum</placeName> et <placeName ref="http://pleiades.stoa.org/places/727172" n="9a25951f-25a3-42c0-965a-8371da88a1e4">Nilum</placeName>, cum attractus in <placeName ref="http://pleiades.stoa.org/places/423025" n="4a912d5c-fed1-40b6-a767-ae0f43b6a60f">urbem</placeName>	
+  <placeName ref="http://pleiades.stoa.org/places/727191" n="9efa5090-4aa3-4bea-ad2e-7aca6d1712e1">septem captivis debilis ibat aquis</placeName>,	
+aut <persName n="3075910b-2904-4cdd-a990-2477febfc9b4">regum auratis circumdata colla catenis,</persName>	
+  <placeName ref="http://pleiades.stoa.org/places/530772" n="7f24e437-8e30-4a47-b16a-4aae2b7befb7">Actia</placeName>que in <placeName ref="http://pleiades.stoa.org/places/434423626" n="c08943b8-6f0a-4502-9bff-fd5c33e067c2">Sacra currere rostra Via</placeName>;	
+te mea <persName n="5598286d-f0fe-49cc-b165-9f6162deae2f">Musa</persName> illis semper contexeret armis,	35
+  et sumpta et posita pace fidele caput.	
+<persName n="b4119586-a41e-4de5-b660-ce04cf0f7f56">Theseus</persName> <placeName n="67a9722f-2a5d-4945-b079-b695b56356c2">infernis</placeName>, <placeName n="5d788fcd-e360-4c60-a61b-025df528248c">superis</placeName> testatur <persName n="eef08098-3aa7-4bc4-8ef0-1b529b21a325">Achilles</persName>,	
+  hic <persName n="260c7072-5793-44a2-bb9a-9e487e91af2a">Ixioniden</persName>, ille <persName n="33a404f2-92a1-40cf-883f-3e5583871c65">Menoetiaden</persName>;	
+Caesaris et famae vestigia iuncta tenebis:	38a(3.9.33)
+  Maecenatis erunt vera tropaea fides.	38b(3.9.34)
+sed neque <placeName ref="http://pleiades.stoa.org/places/432744" n="06bd1216-ac04-410d-829c-1afeaad43ddc">Phlegraeos</placeName> <persName n="2895d507-9e41-47b0-a75e-39108c952c2d">Iovis</persName> <persName n="5b074ba6-5818-4a51-a6c3-78cf1416c6c7">Enceladique</persName> tumultus	39
+  intonet angusto pectore <persName n="6004838c-4811-41b8-be41-2ee820e0019e">Callimachus</persName>,	40
+nec <persName n="30545cb5-3525-4f96-8168-6ffe743af31d">mea</persName> conveniunt duro praecordia versu	
+  <persName n="80ef3bac-c069-46d8-bf95-67d90f1c7000">Caesaris</persName> in <placeName ref="http://pleiades.stoa.org/places/609502" n="a1abcf14-f759-46f8-b1e8-9081f5c6906d">Phrygios</placeName> condere nomen avos.	
+navita de ventis, de tauris narrat <persName n="898a4da4-415b-407e-945e-c1f1984ce2a0">arator</persName>,	
+  enumerat miles vulnera, pastor oves;	
+nos contra angusto versamus proelia lecto:	45
+  qua pote quisque, in ea conterat arte diem.	
+laus in amore mori: laus altera, si datur uno	
+  posse frui: fruar o solus amore meo,	
+[si memini, solet illa levis culpare puellas,	
+  et totam ex <placeName ref="http://pleiades.stoa.org/places/550595" n="f0caeb54-2b1c-4843-adc4-8c811fa10ff0">Helena</placeName> non probat <placeName ref="http://pleiades.stoa.org/places/550595" n="0f8151ff-2a4e-462a-aa62-f74660d6abf0">Iliada</placeName>.]	50
+seu <persName n="f4d5f10e-46b4-437e-836f-b572129820aa">mihi</persName> sunt tangenda novercae pocula <persName n="e7f5770b-30a6-4ba2-976c-3ff002ad9ed6">Phaedrae,</persName>	
+  pocula <persName n="889a0a24-bf07-4eff-970f-7f840f43b37b">privigno non nocitura suo</persName>,	
+seu <persName n="9e946a90-87e1-4db1-bff2-cb2ea613ec1f">mihi</persName> <placeName ref="http://pleiades.stoa.org/places/432783" n="28258b77-86c3-4a71-bf78-1aa63ca5ce01">Circaeo</placeName> pereundumst gramine, sive	
+  <placeName ref="http://pleiades.stoa.org/places/874432" n="ee173a36-14d0-4096-ab2d-51528fb51775">Colchis</placeName> <placeName ref="http://pleiades.stoa.org/places/540837" n="ba592b6f-a794-4487-a170-a4532ca4b1f0">Iolciacis</placeName> urat aena focis.	
+una <persName n="7f3aa965-e376-481d-87fe-b343b9c84c7b">meos</persName> quoniam praedatast femina sensus,	55
+  ex hac ducentur funera nostra domo.	
+omnis humanos sanat medicina dolores:	
+  solus amor morbi non amat artificem.	
+tarda <persName n="8a6f698f-809a-4ad5-813c-79dafc080548">Philoctetae</persName> sanavit crura <persName n="04c27c29-9276-4009-89f3-b287747e5270">Machaon</persName>,	
+  <persName n="27969d01-a1f0-48bb-b09e-efeefab809f6">Phoenicis</persName> <persName n="b18ec023-b6b4-4517-b470-89aa6f566d85">Chiron</persName> lumina <persName n="ce63ac6a-ac73-494d-a499-4a65e86b2c95">Phillyrides</persName>,	60
+et <span>deus</span> exstinctum <persName n="9a6448d3-4a4e-435d-b7fb-d1d579aaed1c">Cressis</persName> <placeName ref="http://pleiades.stoa.org/places/570228" n="6891615c-47a4-4c85-8609-e12520bffd05">Epidaurius</placeName> herbis	
+  restituit <persName n="ea3d01d5-e81a-4f74-ae01-929a09c54ef6">patriis</persName> <persName n="abe620aa-1692-4fcc-90f8-6a9b9768f866">Androgeona</persName> focis,	
+<persName n="6e3581e4-7874-4072-b8ab-a20716762420">Mysus</persName> et <placeName ref="http://pleiades.stoa.org/places/1332" n="d7afd292-d64c-45d8-aefb-393d57ce7fda">Haemonia</placeName> <persName n="29489625-06c4-4ea0-beea-2e5a5b12328e">iuvenis</persName> qua cuspide vulnus	
+  senserat, hac ipsa cuspide sensit opem.	
+hoc si quis vitium poterit <persName n="0efe4a0c-3468-4468-af84-6c8a765cfcfd">mihi</persName> demere, solus	65
+  <span>Tantaleae</span> poterit tradere poma manu;	
+dolia <persName n="b3c6793f-d392-4481-b710-ee6910f708b5">virgineis</persName> idem ille repleverit urnis,	
+  ne tenera assidua colla graventur aqua;	
+idem <placeName ref="http://pleiades.stoa.org/places/863766" n="ae8ebf0e-3a01-4866-8f94-10aa5b20676c">Caucasia</placeName> solvet de <span>rupe Promethei</span>	
+  bracchia et a medio pectore pellet avem.	70
+quandocumque igitur vitam me fata reposcent,	
+  et breve in exiguo marmore nomen ero,	
+<persName n="cbc0d116-df8a-443c-9baf-64d40750ddc8">Maecenas</persName>, <placeName n="cc74ad8f-57be-4569-995e-d17842d83550">nostrae</placeName> spes invidiosa iuventae,	
+  et vitae et morti gloria iusta <persName n="92398d2b-797e-4d44-a29d-b0cdcecf19e6">meae</persName>,	
+si <persName n="d1b9a5cd-bf1f-4229-909a-8fb5cda250fa">te</persName> forte <persName n="47ba60a5-64fc-43b0-aede-e15cf03d822d">meo</persName> ducet via proxima busto,	75
+  esseda caelatis siste <placeName ref="http://pleiades.stoa.org/places/20419" n="1b377018-ffdd-42d7-ab05-5fddb9cd1b55">Britanna</placeName> iugis,	
+taliaque illacrimans mutae iace verba favillae:	
+  'huic misero fatum <persName n="bf3876bc-2bf4-4883-a274-8f8a780c642c">dura puella</persName> fuit.</p></div></body>
+        </text>
+      </TEI>
